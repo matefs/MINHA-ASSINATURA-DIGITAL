@@ -1,0 +1,17 @@
+		canvas {
+			border: 1px solid black;
+       background-color:transparent;
+		}
+    
+    div{
+      display:flex;
+      align-content:center;
+      justify-content:center;
+    }
+    
+    body{
+      text-align:center; 
+    }
+
+ 
+ 
