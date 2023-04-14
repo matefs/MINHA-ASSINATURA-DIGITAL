@@ -9,7 +9,7 @@ Esta é uma aplicação simples que permite que os usuários façam assinaturas 
 
 - 1ª Opção: Acessar a aplicação online
 
-  - A aplicação foi hospedada online no link a seguir: 
+  - A aplicação foi hospedada online no link a seguir: https://minha-assinatura-digital.mateusschverz.repl.co
 
 
 - 2ª Opção: Clonando o projeto
