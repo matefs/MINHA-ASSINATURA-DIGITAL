@@ -9,16 +9,13 @@ Esta é uma aplicação simples que permite que os usuários façam assinaturas 
 
 - 1ª Opção: Acessar a aplicação online
 
-A aplicação foi hospedada online no link a seguir: 
+  - A aplicação foi hospedada online no link a seguir: 
 
 
 - 2ª Opção: Clonando o projeto
-
-Para utilizar a aplicação, basta clonar o repositório em seu ambiente local e abrir o arquivo **`index.html`** em um navegador web.
-
-Ao abrir a aplicação, você verá um elemento canvas onde pode fazer sua assinatura utilizando o mouse. Para limpar o canvas e começar novamente, basta clicar no botão "Limpar".
-
-Ao terminar de fazer a assinatura, você pode escolher para qual endpoint ela será enviada. Para fazer isso, basta clicar no botão "Enviar" e digitar o endpoint desejado no texto de input.
+  - Para utilizar a aplicação, basta clonar o repositório em seu ambiente local e abrir o arquivo **`index.html`** em um navegador web.
+  - Ao abrir a aplicação, você verá um elemento canvas onde pode fazer sua assinatura utilizando o mouse. Para limpar o canvas e começar novamente, basta clicar no botão "Limpar".
+  - Ao terminar de fazer a assinatura, você pode escolher para qual endpoint ela será enviada. Para fazer isso, basta clicar no botão "Enviar" e digitar o endpoint desejado no texto de input.
 
 ## **Como configurar os endpoints**
 
