@@ -2,15 +2,16 @@
 
 Esta é uma aplicação simples que permite que os usuários façam assinaturas digitais em um elemento canvas utilizando o mouse. Além disso, a aplicação permite que o usuário escolha para qual endpoint a assinatura em formato de imagem será enviada.
 
-![image](https://user-images.githubusercontent.com/30128774/232161922-f6bbcc2e-6910-4f70-b0cb-5c228a86f0d2.png)
- 
+![enviando assinatura base64](https://github.com/matefs/MINHA-ASSINATURA-DIGITAL/assets/30128774/0fb5d703-7b4f-4d13-b8e6-e2183c63df6a)
+
 
 ## **Como utilizar a aplicação**
 
 - 1ª Opção: Acessar a aplicação online
 
   - A aplicação foi hospedada online no link a seguir: https://minha-assinatura-digital.mateusschverz.repl.co
-
+![image](https://user-images.githubusercontent.com/30128774/232161922-f6bbcc2e-6910-4f70-b0cb-5c228a86f0d2.png)
+ 
 
 - 2ª Opção: Clonando o projeto
   - Para utilizar a aplicação, basta clonar o repositório em seu ambiente local e abrir o arquivo **`index.html`** em um navegador web.
