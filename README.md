@@ -10,6 +10,7 @@ Esta é uma aplicação simples que permite que os usuários façam assinaturas 
 - 1ª Opção: Acessar a aplicação online
 
   - A aplicação foi hospedada online no link a seguir: [https://stackblitz.com/github/matefs/MINHA-ASSINATURA-DIGITAL](https://stackblitz.com/github/matefs/MINHA-ASSINATURA-DIGITAL)
+  -  Rode o comando: `npx live-server`
 ![image](https://user-images.githubusercontent.com/30128774/232161922-f6bbcc2e-6910-4f70-b0cb-5c228a86f0d2.png)
  
 
